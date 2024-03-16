@@ -1,26 +1,18 @@
-title: Christina Wu
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
-url: https://liyingwu.github.io
+title: Liying Wu
+ tagline:Here is personal website of Christina. Powered by Jekyll, based on the Minimal Mistakes theme.
+ description:pls go beyond feelings
+url: https://wwwtinawly.github.io
 
-# Owner/author information
+
 owner:
-  name: Liying WU
-  avatar: sunrise.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  name: Liying Wu
+  avatar: bluelake.jpg
+  bio: to be slow
   email: drds31369@gmail.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: 待更新
-  github: LiyingWU
-  # linkedin: 待更新
-  # scholar: 待更新
-  # bilibili: 待更新
-  # researchgate: 待更新
-  # zhihu: 待更新
-  # facebo# ok: 
-  # instagram: lancecai2002
+  cv: Not done yet
+  linkedin: 
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -29,27 +21,24 @@ owner:
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+https: //ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: About Me
-    url: /
+    url: /index/
   - title: Articles
     url: /Articles/
-  - title: Book Notes
-    url: /booknotes/
-  - title: Travel
-    url: /travels/
-  - title:Languages
-    url:/languages/
+  - title: Booknotes
+    url: /Booknotes/
+  - title: travels
+    url: /Travels/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Australia/Melbourne·
+timezone: Australia/Melbourne
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -83,4 +72,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2024/16/03 by Christina.
