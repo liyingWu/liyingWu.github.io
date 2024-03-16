@@ -1,6 +1,6 @@
-# GuangLun means Nimbus in Chinese ✨
+# Liying‘s learning journey ✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is my personal web repo. Welcome to fork for free🥰
+Here is **Liying Wu**. This is my personal web repo. Welcome to fork for free🥰
 
 ## Update and News
 
