@@ -7,19 +7,19 @@ url: https://liyingwu.github.io
 # Owner/author information
 owner:
   name: Liying WU
-  avatar: hanlin.jpg
+  avatar: sunrise.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: drds31369@gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 待更新
-  github: 待更新
-  linkedin: 待更新
-  scholar: 待更新
-  bilibili: 待更新
-  researchgate: 待更新
-  zhihu: 待更新
-  # facebook: 
+  # twitter: 待更新
+  github: LiyingWU
+  # linkedin: 待更新
+  # scholar: 待更新
+  # bilibili: 待更新
+  # researchgate: 待更新
+  # zhihu: 待更新
+  # facebo# ok: 
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -38,16 +38,15 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: Articles
+    url: /Articles/
+  - title: Book Notes
+    url: /booknotes/
+  - title: Travel
+    url: /travels/
+  - title:Languages
+    url:/languages/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Australia/Melbourne·
